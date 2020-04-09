@@ -1,5 +1,5 @@
-#inlcud "myheader.h"
+#include "myheader.h"
 
-void check_admin(char **argv) 
-return 0
+void check_admin(char **argv) {
+return 0;
 };
